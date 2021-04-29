@@ -2,7 +2,7 @@
 
 Neste repositório, estão inseridos arquivos onde, a tela do Front-End, está executando códigos em **Runtime**.
 
-As classes estão em linguagem Typescript e como sabemos ao compilar é traduzido para o JavaScript, linguagem do brownser (navegadores).
+As classes estão em linguagem Typescript e como sabemos ao compilar é traduzido para o JavaScript, linguagem do browser (navegadores).
 
 Sendo assim, temos uma tela para inserir nas negociações, que depois da inseridas não podem ser modificadas. Tudo isso estruturado com:
 
