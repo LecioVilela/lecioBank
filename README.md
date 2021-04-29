@@ -24,5 +24,7 @@ $('form').submit(controller.adiciona.bind(controller)) -> jQuery
 document.querySelector('.form')
 .addEventListener('submit', controller.adiciona.bind(controller)) -> JavaScript
 ~~~
+No npm, existe uma série de TypeScript definitons files para as mais diversas bibliotecas e frameworks do mercado. Por exemplo, se quisermos instalar o tsd do jQuery.
+[npm jQuery](https://www.npmjs.com/package/@types/jquery)
 
 ![image](https://user-images.githubusercontent.com/76961685/116592515-7ac3b700-a8f6-11eb-8987-04cc7503eec1.png)
